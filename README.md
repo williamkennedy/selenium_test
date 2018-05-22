@@ -6,6 +6,8 @@
 You will need Ruby installed on your machine
 
 Navigate to the directory and enter the following
+
+
 ``
 bundle
 ``
